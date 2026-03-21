@@ -2,5 +2,4 @@
 
 Em dic Nil Badia Gimenez i la meva saga preferida de videojocs es Monster Hunter. El meu joc preferit de Monster Hunter es diu: <em>Monster Hunter Freedom Unite</em>
 
-![Monster Hunter world](https://alfabetajuega.com/guia/monster-hunter-world/monstruos-tigrex)
-
+![Tigrex](https://github.com/user-attachments/assets/c24922ef-a0b0-4c4c-bb41-62b406f415da)
